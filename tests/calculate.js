@@ -30,7 +30,7 @@ describe("Demo Calculator Fucntion Test", function () {
 
         homepage.verfyResult('7');
 
-        browser.sleep(3000);
+        browser.sleep(2000);
 
     });
 
